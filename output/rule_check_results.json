@@ -1,0 +1,41 @@
+{
+  "local_results": [
+    {
+      "rule": "Act must define key terms",
+      "status": "pass",
+      "evidence": "Keyword/context found in text (heuristic).",
+      "confidence": 90
+    },
+    {
+      "rule": "Act must specify eligibility criteria",
+      "status": "pass",
+      "evidence": "Keyword/context found in text (heuristic).",
+      "confidence": 90
+    },
+    {
+      "rule": "Act must specify responsibilities of the administering authority",
+      "status": "pass",
+      "evidence": "Keyword/context found in text (heuristic).",
+      "confidence": 90
+    },
+    {
+      "rule": "Act must include enforcement or penalties",
+      "status": "pass",
+      "evidence": "Keyword/context found in text (heuristic).",
+      "confidence": 90
+    },
+    {
+      "rule": "Act must include payment calculation or entitlement structure",
+      "status": "pass",
+      "evidence": "Keyword/context found in text (heuristic).",
+      "confidence": 90
+    },
+    {
+      "rule": "Act must include record-keeping or reporting requirements",
+      "status": "pass",
+      "evidence": "Keyword/context found in text (heuristic).",
+      "confidence": 90
+    }
+  ],
+  "_ai_raw_snippet": "[AI error] fallback failed: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+}
